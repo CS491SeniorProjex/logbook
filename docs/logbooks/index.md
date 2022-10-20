@@ -8,7 +8,7 @@ slug: solomon
 
 
 ## What I did
-
+Gave a tutorial about docesaurus
 ## Contribution
 
 ## Bla-bla
