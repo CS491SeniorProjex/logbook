@@ -13,29 +13,11 @@ $ yarn
 ```
 $ yarn start
 ```
+### Coding and pushing code to this repo
+check out to another branch and then change/update the repo
+- git checkout -b feat/YourName (or any other name)
+- git add .  ( adds everything)
+- git commit -m "short explanation of the commit"
+- git push (and then copy paste whatever it is recommending you git push -set-upstream blabla)
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+- Merge this branch with main and delete your branch after you're done
