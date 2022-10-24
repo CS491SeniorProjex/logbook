@@ -16,12 +16,12 @@ Will work as a Front-End Developer and User Interface Designer
 - Researched for any React sources for beginner learners as we will use React in the front-end part.
 
 ## Next Week's Plans
-Choose one of the React video sources and start learning React.
-Begin writing the Design Report with the team.
-Came up with some user interface ideas that will distinguish our project from other similar ones on the market.
-Have a general knowledge by researching the color theory.
+- Choose one of the React video sources and start learning React.
+- Begin writing the Design Report with the team.
+- Came up with some user interface ideas that will distinguish our project from other similar ones on the market.
+- Have a general knowledge by researching the color theory.
 
 ## Resources I've Found
-"React Tutorial for Beginners" on Youtube -- https://www.youtube.com/watch?v=Ke90Tje7VS0
-"The Complete React Course" on Udemy -- https://www.udemy.com/course/react-js-basics-to-advanced/
-"The Beginner's Guide to Color Theory" on Udemy -- https://www.udemy.com/course/colortheory/
+- "React Tutorial for Beginners" on Youtube -- https://www.youtube.com/watch?v=Ke90Tje7VS0
+- "The Complete React Course" on Udemy -- https://www.udemy.com/course/react-js-basics-to-advanced/
+- "The Beginner's Guide to Color Theory" on Udemy -- https://www.udemy.com/course/colortheory/
