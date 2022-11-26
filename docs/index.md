@@ -7,7 +7,7 @@ hide_title: true
 # Everything about The Aura Palette
 Supervisors: Fazlı Can
 Instructors: Erhan Dolak and Tağmaç Topal
-
+Group No: T2313
 ## Team
 Suleyman Hanyyev
 Ata Seren
