@@ -9,23 +9,69 @@ slug: canavsar
 Front-End Developer and User Experience Designer
 
 ## Contributions
-### Oct 24 - Oct 30
+
+### Sep 19 - Sep 25
+- We final-formed a team with Ayda, Süleyman, Ata and Zeynep.
+- The team had a project idea about blockchain and transportation.
+- Chose our project supervisor, Fazlı Can.
+- Had a first meeting with Fazlı Can and CS491 advisors.
+
+### Sep 26 - Oct 2
+- Created a GitHub page.
+- Thought other project ideas with my team.
+- Found our innovation expert.
+- Tried to connect to some innovation experts.
+
+### Oct 3 - Oct 9
+- Had a meeting with CS491 advisors.
 - Suggested an idea which is a University Social Media with different functions, including a feed, marketplace and buddy finder.
+- Had a team meeting by having a presentation with our supervisor, Fazlı Can. (Sep 23)
+
+### Oct 10 - Oct 16
+- Had a meeting with our Innovation Expert.
 - Created a website for the project using the Webflow tool and then, modified and brand-customized the website.
 - Came up with several logo design ideas created using Figma Software.
-- Was involved in Project Specifications Report, mainly on the requirements part. Then, I made some changes to the layout of the documents.
+- Was involved in Project Specifications Report, mainly on the requirements part. Then made some changes to the layout of the documents.
+
+### Oct 17 - Oct 23
+- Researched about Color Theory.
+
+### Oct 24 - Oct 30
+- Was involved in Design and Analysis report, wrote mainly the requirements part.
 
 ### Oct 31 - Nov 6
-- Was involved in Design and Analysis report, wrote mainly the requirements part.
 - Thought with some user interface ideas that will distinguish our project from other similar ones on the market.
-- Researched for more React sources for beginner learners (see Resources).
+- Researched, found, and studied some of React sources for beginner learners (see Resources).
+
+### Nov 7 - Nov 13
+- Created UI designs, for two times, second one was for refreshing the design language. (For UI Mock-Up files, see Resources) 
+- Made some changes to the layout of the Design and Analysis Report document on Google Docs.
+
+### Nov 14 - Nov 20
+- Developed the main page with HTML and CSS with Styled Components.
+- Learned how to develop code and write CSS codes with Styled Components and React.
+- Added some placeholder colors to see how the design will be when we connect to the database.
+
+### Nov 21 - Nov 27
+- Joined the meeting with CS491 instructors and went through our project path with my team.
+- Waiting for the backend team to develop the structure of login page.
 
 ## Plans
-- Choose one of the React video sources and start learning React.
-- Create mock-ups for the user interface ideas.
-- Have a general knowledge by researching the color theory.
+
+- [x] Choose one of the React video sources and start learning React.
+- [x] Create mock-ups for the user interface ideas.
+- [x] Have a general knowledge by researching the color theory.
+- [x] Create UI designs.
+- [x] Develop main page.
+- [ ] Develop profile page.
+- [ ] Develop login and signup pages.
+- [ ] Create palette harmony algorithm with Ayda.
 
 ## Resources
+
+### UI Mock-Up Designs 
+- [Figma Link](https://www.figma.com/file/0oLstXuyv44boY9PO7tAsH/The-Aura-Palette?node-id=12%3A174)
+
 ### React Tutorials 
 - [React Tutorial for Beginners](https://www.youtube.com/watch?v=Ke90Tje7VS0)
 - [The Complete React Course](https://www.udemy.com/course/react-js-basics-to-advanced/)
