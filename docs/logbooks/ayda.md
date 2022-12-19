@@ -42,12 +42,18 @@ Front-end developer & Project Manager
 - Proof-read the report
 - Had a meeting with Fazlı Hoca's TA
 
-
 [13th November - 26th November]
 ### Contributions:
 - Created a repository for the front-end of the application
 - Coded the basic views, React components and their navigation
 - Researched how to build algorithms of color harmony
 
-### Main source I'll be using for these algorithms:
+[27th November - 19th December]
+### Contributions:
+- Completed the research on color theory and color harmony
+- Implemented the navigation functionality
+- Implemented multiple color harmony algorithms
+- Prepared my slides for the final presentation
+
+### Main source I used for these algorithms:
 - [Colors are Math: How they match — and how to build a Color Picker](https://dev.to/madsstoumann/colors-are-math-how-they-match-and-how-to-build-a-color-picker-4ei8)
