@@ -9,6 +9,24 @@ slug: zeynep
 
 ## Logbook Entries
 
+### 19th December - 20th December 2022
+Model API was created using the pretrained data from the ML model. User would enter a query and 5 palettes would be returned. This API was later connected with the main page of the frontend for UI.
+
+### 12th December - 18th December 2022
+Authentication API was completed - User can register, and login which would return an Auth Token. Account API requires work using Auth Token to save the palette under certain users. Authentication API was connected with the frontend so that by filling the login and signup forms, users could create accounts and login.
+
+### 5th December - 11th December 2022
+Worked on Authentication API of the project using Firebase Authentication. Prepared base views to handle REST-Firebase connections. 
+
+### 28th November - 4th December 2022
+Tried to implement a Django-REST Framework Project. Later this test project was used in the actual implementation of the Aura Palette Project. Worked on Firebase integration as we decided to use Firebase Realtime Database.
+
+### 21st November - 27th November 2022
+Meeting with course instructors on 24th. Helped with the understanding of the code found in a research article. Learn more on Django projects as we decided to implemet the backend using Django. Firebase and MongoDB were researched as alternative database choices. 
+
+### 14th November - 20th November 2022
+Started to learn more about project structures/framworks we can use.  Mainly worked on other backend structures like database, specifically which one to use.
+
 ### 13th November 2022
 Final checks regarding the requirements report were completed.
 
