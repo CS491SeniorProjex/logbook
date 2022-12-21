@@ -56,6 +56,21 @@ Front-End Developer and User Experience Designer
 - Joined the meeting with CS491 instructors and went through our project path with my team.
 - Waiting for the backend team to develop the structure of login page.
 
+### Nov 28 - Dec 4
+- Developed the login and signup parts.
+
+### Dec 5 - Dec 11
+- Developed responsive interface for laptops and tablets. (landscape mode only)
+- Solved some bugs on frontend.
+
+### Dec 12 - Dec 18
+- Developed interface elements like color mode.
+- Color mode button changes the display of the color codes from HEX to RGB to HSL using some functions to change HEX to RGB or HSL.
+
+### Dec 12 - Dec 18
+- Designed and created presentation for the final demo.
+- Designed and implemented copy button.
+
 ## Plans
 
 - [x] Choose one of the React video sources and start learning React.
@@ -64,8 +79,9 @@ Front-End Developer and User Experience Designer
 - [x] Create UI designs.
 - [x] Develop main page.
 - [ ] Develop profile page.
-- [ ] Develop login and signup pages.
-- [ ] Create palette harmony algorithm with Ayda.
+- [x] Develop login and signup pages.
+- [x] Create palette harmony algorithm with Ayda.
+- [x] Develop for color codes (copy and change functions).
 
 ## Resources
 
