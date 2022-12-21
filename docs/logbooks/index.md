@@ -24,11 +24,14 @@ Since we decided to roll with The Aura Palette:
 - Set up the Aura Website (not design)
 - Created and published the logbook
 - Gave a tutorial about docesaurus (website you're browsing right now)
-- Deployed frontend and backend to two different servers
+- Deployed front-end and back-end to two different servers: Vercel & digitalocean
 - Found and worked on ML algorithms and datasets
+- Fixed the ML algorithms to get appropriate results
+- Assisted on front-end
+- Assisted on back-end
+
 
 ### Some of the resources
-
 - [Machine Learning Explained](https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained)
 - [Fake News algorithms](http://fakenews.research.sfu.ca/)
 - [Research Paper used in our project](https://arxiv.org/abs/1804.04128)
@@ -52,11 +55,13 @@ Since we decided to roll with The Aura Palette:
 ### Contributions:
 - Created a repository for the back-end application
 - Helped Ayda solving async/await problem on the frontend
-- Researched how to make the algorithms we found work
+- Helped Zeynep with issues on the backend
+- Researched how to make the algorithms for ML we found work
 
-Since the past 3 weeks I did not take notes because it was mainly 3 jobs:
- - Getting meaningful results from the model
+I decided not to write my weekly contributions because from now on there were mainly these jobs:
+ - Getting meaningful results from the model (crucial)
  - Connecting the model to backend
  - Deploying everything to servers
+ - Preparing a nice presentation 
 
  This took me a while, and since the job involved a lot of research, it would be repetitive for me to just list the tasks. The ML model we found in the research paper had some problems and was not working, so it took me almost 1-2 weeks to finally be able to solve it and get results.
