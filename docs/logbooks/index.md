@@ -4,14 +4,22 @@ title: Suleyman Hanyyev
 hide_title: true
 slug: solomon
 ---
-[16th September - 23rd October]
+[Full year]
 ## Contribution to the Team Project
-Team-lead & ML engineer
+Team-lead
 
 ### Ideas:
 During team formation, I presented several ideas that included:
 - DAOxi, a taxi app built with blockchain technologies
 - Fake News detector.
+
+### Recent Contribution (2nd year)
+- Was responsible for handling deployment
+- Finding the most optimal solution (price/characteristics/speed) for deployment
+- Weekly fixing bugs that were on ML, frontend, backend sides
+- Joined weekly meetings to help the group if they are stuck on something
+- Helped on team organization to make sure the deadlines are met
+- Bought a domain :D aurapalette.app + demo.aurapalette.app 
 
 ### General Contribution:
 Since we decided to roll with The Aura Palette:
