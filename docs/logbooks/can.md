@@ -33,8 +33,7 @@ Front-End Developer and User Experience Designer
 
 ### November 2022
 - Thought with some user interface ideas that will distinguish our project from other similar ones on the market.
-- Researched, found, and studied some of React sources for beginner learners (see Resources).
-- Created UI designs, for two times, second one was for refreshing the design language. (For UI Mock-Up files, see Resources) 
+- Created UI designs, for two times, second one was for refreshing the design language. (For UI Mock-Up files) 
 - Made some changes to the layout of the Design and Analysis Report document on Google Docs.
 - Developed the main page with HTML and CSS with Styled Components.
 - Learned how to develop code and write CSS codes with Styled Components and React.
@@ -79,6 +78,7 @@ Front-End Developer and User Experience Designer
 - Designed and implemented About & Feedback page.
 - Developed Change Password settings on the frontend.
 - Made Adjustments menu dropdown.
+- Created new website design and implemented it.
 - Fixed last design bugs.
 
 ## Resources
