@@ -9,6 +9,21 @@ slug: zeynep
 
 ## Logbook Entries
 
+### May 2023
+Error messages added. History and favorite display completed with the help from frontend team. Favorite functionality was implemented fully.
+
+### April 2023
+Certain bug fixes were handled like a system crash that occured in certain cases. 
+
+### March 2023
+Bug fixes due to recent changes were implemented. When the logged in user generated a palette, it would be saved automatically in the history.
+
+### February 2023
+Certain issues regarding the connection between backend and frontend were addressed. Account functionalities like adding a palette to history or favorites was added along with retrieving those lists but only on the backend side.
+
+### January 2023
+Demo and semester break. Program was continuously tested to find out the features that were missing and a list of bugs to fixed was created.
+
 ### 19th December - 20th December 2022
 Model API was created using the pretrained data from the ML model. User would enter a query and 5 palettes would be returned. This API was later connected with the main page of the frontend for UI.
 
