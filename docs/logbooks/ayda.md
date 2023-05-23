@@ -55,5 +55,29 @@ Front-end developer & Project Manager
 - Implemented multiple color harmony algorithms
 - Prepared my slides for the final presentation
 
+[15th March - 25th March]
+### Contributions:
+- Started, debugged and finished locking/unlocking colors feature
+
+[25th March - 15th April]
+### Contributions:
+- Started, debugged and finished editing colors feature
+
+[15th April - 30th April]
+### Contributions:
+- Started, debugged and finished medium selection and color blindness simulation
+
+[1st May - 12th May]
+### Contributions:
+- Fixed bugs on front-end
+- Commercialized our app on different platforms
+- Adjustments to our features based on feedback
+
+[12th May - 23th May]
+### Contributions:
+- Even more bug fixes
+- Tested the application throughly before the demo
+- Polished UI
+
 ### Main source I used for these algorithms:
 - [Colors are Math: How they match — and how to build a Color Picker](https://dev.to/madsstoumann/colors-are-math-how-they-match-and-how-to-build-a-color-picker-4ei8)
